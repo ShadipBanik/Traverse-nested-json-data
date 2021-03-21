@@ -34,4 +34,4 @@ fs.writeFileSync('paths.json',JSON.stringify(referencePaths, null, '\t'));
 fs.writeFileSync('objects.json','')
 fs.writeFileSync('objects.json',JSON.stringify(refrenceObjects, null, '\t'));
 
-console.log("please see the result in path.js and object.js file");
+console.log("please see the result in path.json and object.json file");
